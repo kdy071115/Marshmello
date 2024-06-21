@@ -1,8 +1,8 @@
 package com.example.Marshmello.repository;
-
+import com.example.Marshmello.domain.Member;
 import java.util.List;
 import java.util.Optional;
-import com.example.Marshmello.domain.Member;
+
 
 public interface MemberRepository {
     Member save(Member member);

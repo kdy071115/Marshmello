@@ -2,8 +2,6 @@ package com.example.Marshmello.repository;
 
 import com.example.Marshmello.domain.Member;
 
-import com.example.Marshmello.domain.Member;
-import java.util.HashMap;
 import java.util.*;
 
 public class MemoryMemberRepository implements MemberRepository {
