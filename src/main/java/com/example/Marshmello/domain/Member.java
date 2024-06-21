@@ -1,6 +1,6 @@
 package com.example.Marshmello.domain;
 
-public class member {
+public class Member {
 
     private Long id;
     private String name;
@@ -14,5 +14,8 @@ public class member {
     }
     public String getName(){
         return name;
+    }
+    public void setName(String name){
+        this.name = name;
     }
 }
