@@ -1,4 +1,4 @@
-package com.Marshmello.Marshmello;
+package com.example.Marshmello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,6 @@ public class MarshmelloApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MarshmelloApplication.class, args);
 	}
+
 
 }

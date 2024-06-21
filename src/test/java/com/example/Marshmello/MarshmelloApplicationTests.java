@@ -1,4 +1,4 @@
-package com.Marshmello.Marshmello;
+package com.example.Marshmello;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
